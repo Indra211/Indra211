@@ -1,6 +1,6 @@
 # Hi there, I'm CHERUKURU INDRASENA REDDY 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/cherukuru-indrasena-reddy-b9717b228/)
+[![Linkedin Badge](https://img.shields.io/badge/-IndraSena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/cherukuru-indrasena-reddy-b9717b228/)
 [![Gmail Badge](https://img.shields.io/badge/-yourname@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourname@gmail.com)](mailto:indrasena0018@gmail.com)
 
 ---

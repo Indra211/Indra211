@@ -1,8 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm CHERUKURU INDRASENA REDDY 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Gmail Badge](https://img.shields.io/badge/-yourname@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourname@gmail.com)](mailto:yourname@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@yourusername-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
+[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/cherukuru-indrasena-reddy-b9717b228/)
+[![Gmail Badge](https://img.shields.io/badge/-yourname@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourname@gmail.com)](mailto:indrasena0018@gmail.com)
 
 ---
 
@@ -16,7 +15,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)
+
 
 ---
 
@@ -35,15 +37,11 @@ A mobile application for seamless online shopping experience, built with React N
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Indra211&show_icons=true&hide=issues&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indra211&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:yourname@gmail.com)
 
 

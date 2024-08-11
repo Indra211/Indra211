@@ -22,19 +22,6 @@
 
 ---
 
-## 💻 Projects
-
-### [Files HUB](https://github.com/yourusername/files-hub)
-Secure file storage and access platform designed to safeguard user files and provide global accessibility. Built with [your technologies].
-
-### [Product Exchange](https://github.com/yourusername/product-exchange)
-A platform for exchanging old products between users. Features real-time communication using Socket.IO. Built with React Native, Node.js, Express.js, and MongoDB.
-
-### [E-Commerce Mobile App](https://github.com/yourusername/ecommerce-app)
-A mobile application for seamless online shopping experience, built with React Native and Firebase.
-
----
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Indra211&show_icons=true&hide=issues&count_private=true&theme=radical)
